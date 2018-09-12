@@ -1,5 +1,5 @@
 # 对__proto__和prototype的理解。
-在js中万事万物皆对象，Functiong (方法)、方法的原型（Function.prototype）也是对象。在对象中，
+在js中万事万物皆对象，Function (方法)、方法的原型（Function.prototype）也是对象。在对象中，
 都有一个__proto__属性。方法（Function）作为一个特殊对象，除了拥有__proto__属性外，还有一个prototype属性。
 
 # 原型对象
