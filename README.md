@@ -1,2 +1,3 @@
 # lanygrp
-we can change the world
+原型对象__proto__和prototype的理解
+
