@@ -17,7 +17,7 @@ prototype: 用来实现基于原型的继承与属性的共享。
 隐式原型指向构造该对象的构造函数（constructor）的prototype。
 
 #图解
-![原型图解](https://github.com/footars/lanygrp/images/prototype.jpg)
+![原型图解](https://github.com/footars/lanygrp/blob/master/images/prototype.jpg)
 
 1. 构造函数Foo()
 构造函数的原型属性Foo.prototype指向了原型对象，在原型对象中的所有属性和方法，都可以通过构造函数Foo声明的实例（f1,f2）共享。
